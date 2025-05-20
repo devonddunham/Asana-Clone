@@ -9,7 +9,7 @@ namespace Asana
         {
             ToDo first = new ToDo();
 
-            Console.WriteLine(first.Name?.Length > 0 ? first.Name : "No name provided");
+            Console.WriteLine(first.Name?.Length > 0 ? first.Name : "No name was given");
         }
     }
 }
