@@ -13,6 +13,9 @@ namespace Asana.Library.Models
         public bool? IsDone { get; set; }
         public int? Priority { get; set; }
 
-        
+        public override string ToString()
+        {
+            return $"Name: {Name}, Description: {Description}";
+        }
     }
 }

@@ -16,3 +16,4 @@
 /Users/devon/Documents/cop4870/Asana.CLI/bin/Debug/net9.0/Asana.Library.pdb
 /Users/devon/Documents/cop4870/Asana.CLI/obj/Debug/net9.0/Asana.CLI.csproj.AssemblyReference.cache
 /Users/devon/Documents/cop4870/Asana.CLI/obj/Debug/net9.0/Asana.CLI.csproj.Up2Date
+/Users/devon/Documents/cop4870/Asana.CLI/obj/Debug/net9.0/Asana.CLI.sourcelink.json

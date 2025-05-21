@@ -9,3 +9,4 @@
 /Users/devon/Documents/cop4870/Asana.Library/obj/Debug/net9.0/refint/Asana.Library.dll
 /Users/devon/Documents/cop4870/Asana.Library/obj/Debug/net9.0/Asana.Library.pdb
 /Users/devon/Documents/cop4870/Asana.Library/obj/Debug/net9.0/ref/Asana.Library.dll
+/Users/devon/Documents/cop4870/Asana.Library/obj/Debug/net9.0/Asana.Library.sourcelink.json
