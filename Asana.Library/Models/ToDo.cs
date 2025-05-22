@@ -8,14 +8,16 @@ namespace Asana.Library.Models
 {
     public class ToDo
     {
+        public int? Id { get; set; }
         public string? Name { get; set; }
         public string? Description { get; set; }
-        public bool? IsDone { get; set; }
+        public bool? IsComplete { get; set; }
         public int? Priority { get; set; }
+        public int? ProjectId { get; set; }
 
         public override string ToString()
         {
-            return $"Name: {Name}, Description: {Description}";
+            return $"ID: {Id}, Name: {Name}, Description: {Description}, Priority: {Priority}, IsComplete: {IsComplete}";
         }
     }
 }
